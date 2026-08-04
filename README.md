@@ -145,6 +145,13 @@ The interactive dashboard includes:
 - Churn by Internet Service
 - Interactive Filters
 
+## Dataset
+
+This project uses the **IBM Telco Customer Churn Dataset**, which is publicly available on Kaggle for learning and data analysis purposes.
+
+Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 ## 👤 Author
 
 **Mete Arabacı**
